@@ -9,7 +9,7 @@
 
 -*ACG lover provide*
 ![110](https://github.com/han1046819021/han1046819021/blob/han1046819021-patch-1/110.png)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=han1046819021&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=han1046819021&show_icons=true&theme=cobalt) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=han1046819021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 han1046819021/han1046819021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
